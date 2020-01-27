@@ -155,9 +155,9 @@ version = "0.9.5"
 
 [[Libglvnd_jll]]
 deps = ["Libdl", "Pkg", "X11_jll", "Xorg_glproto_jll", "Xorg_libX11_jll", "Xorg_libXext_jll"]
-git-tree-sha1 = "d3e5ad7af102c4fc1b58ba52952d8cc31bc6ee5b"
+git-tree-sha1 = "b69bdcad2424615c7b0838f69608b541680a5b7e"
 uuid = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"
-version = "1.2.0+1"
+version = "1.2.0+2"
 
 [[Xorg_libxcb_jll]]
 deps = ["Libdl", "Pkg", "XSLT_jll", "Xorg_libXau_jll", "Xorg_libXdmcp_jll", "Xorg_libpthread_stubs_jll", "Xorg_util_macros_jll", "Xorg_xcb_proto_jll"]
@@ -457,9 +457,9 @@ version = "1.1.0"
 
 [[X11_jll]]
 deps = ["Libdl", "Pkg"]
-git-tree-sha1 = "dbded9081d84be23bd31108e60ecac84f4e82e33"
+git-tree-sha1 = "dfadaea7e3fa9120b06824b634342fc6cba58109"
 uuid = "546b0b6d-9ca3-5ba2-8705-1bc1841d8479"
-version = "1.6.8+4"
+version = "1.6.8+5"
 
 [[Xorg_xextproto_jll]]
 deps = ["Libdl", "Pkg"]
